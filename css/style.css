@@ -285,7 +285,7 @@ header {
 	position: absolute;
 	top: 12px;
 	left: 75px;
-	background: url("../img/driver.JPG") center / cover no-repeat;
+	background: url("../img/driver1.jpg") center / cover no-repeat;
 }
 
 .car__window2 {
@@ -300,7 +300,7 @@ header {
 }
 
 .car__window2:hover {
-	background: url("../img/passanger1.jpg") center / contain no-repeat;
+	background: url("../img/passanger-1.jpg") center / contain no-repeat;
 }
 
 .car__window3 {
@@ -315,7 +315,7 @@ header {
 }
 
 .car__window3:hover {
-	background: url("../img/passanger2.jpg") center / contain no-repeat;
+	background: url("../img/passanger-2.jpg") center / contain no-repeat;
 }
 
 .car__door1 {
